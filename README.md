@@ -9,6 +9,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20Classification-5C3EE8?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-8A2BE2?style=flat-square)
+
 A deep learning project that classifies facial images into two categories: **Smile** and **Non-Smile** using a custom Convolutional Neural Network (CNN).
 
 ---
