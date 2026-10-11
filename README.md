@@ -1,7 +1,14 @@
 # 😊 Smile Face Classification
 
-Python · TensorFlow · Keras · NumPy · Pandas · Scikit-learn · Jupyter Notebook · Deep Learning · Computer Vision
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-CNN-D00000?style=flat-square&logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-150458?style=flat-square&logo=pandas)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Data%20Splitting-F7931E?style=flat-square&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20Classification-5C3EE8?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-8A2BE2?style=flat-square)
 A deep learning project that classifies facial images into two categories: **Smile** and **Non-Smile** using a custom Convolutional Neural Network (CNN).
 
 ---
